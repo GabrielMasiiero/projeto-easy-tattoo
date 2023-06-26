@@ -11,7 +11,7 @@
 
 🔗 _*url github:*_ https://github.com/GabrielMasiiero/projeto-easy-tattoo
 
-🛬 _*url landpage:*_
+🛬 _*url landpage:*_ https://gabrielmasiiero.github.io/projeto-easy-tattoo/
 🤝 _*url Modelo Negócio (imagem):*_
 🗓️ _*url Product cBaklog:*_
 -------------------
