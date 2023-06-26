@@ -9,7 +9,7 @@
 -------------------
 💡 *PMI I*
 
-🔗 _*url github:*_ https://github.com/GabrielMasiiero/tattoo.git
+🔗 _*url github:*_ https://github.com/GabrielMasiiero/projeto-easy-tattoo
 
 🛬 _*url landpage:*_
 🤝 _*url Modelo Negócio (imagem):*_
